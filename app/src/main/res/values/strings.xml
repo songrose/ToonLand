@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Harry Potter</string>
+    <string name="title">Book Title</string>
+    <string name="publisher">Publisher</string>
+    <string name="author">Author</string>
+    <string name="publishedDate">Published Date</string>
+    <string name="ISBN_10">ISBN_10</string>
+
+
+</resources>
